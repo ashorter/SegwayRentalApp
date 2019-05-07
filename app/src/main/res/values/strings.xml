@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Segway Rental App</string>
+    
+    <string-array name="Tickets">
+        <item>To Catalina Island</item>
+
+    </string-array>
+</resources>
